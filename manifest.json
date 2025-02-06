@@ -1,6 +1,6 @@
 {
-  "name": "apk",
-  "short_name": "apk",
+  "name": "datastudent",
+  "short_name": "datastudent",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#FFFFFF",
